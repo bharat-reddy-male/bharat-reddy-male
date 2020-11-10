@@ -6,4 +6,4 @@ Feel free to connect with me :raised_hands:
 
 Need my code? Take it, its free, sharing is caring :thumbsup:
 
-Found a better login than mine? Update it and we'll be contributors :muscle:
+Found a better logic than mine? Update it and we'll be contributors :muscle:
